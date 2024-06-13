@@ -1,1 +1,4 @@
 print("gówno")
+print("jajsko")
+
+#
