@@ -2,4 +2,6 @@ to jest plik README.md
 
 To jest nowa funkcjonalnosc
 
-co tu dodaje lolz
+co tu dodaje lolz 
+
+lolipop hihihih
